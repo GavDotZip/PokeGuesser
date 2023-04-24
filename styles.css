@@ -56,8 +56,10 @@
   }
 
   .pokemon-image {
-    display: block;
-    margin: 3em auto 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
   }
 
   .options {
@@ -128,7 +130,7 @@
     left: 50%;
     top: 50%;
   }
-  
+
   #user-score {
     margin-bottom: 1em;
     color: #ffffff;
