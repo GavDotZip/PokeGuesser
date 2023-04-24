@@ -2,7 +2,7 @@
 const container = document.querySelector(".container");
 const gameContainer = document.querySelector(".game-container");
 const scoreContainer = document.querySelector(".score-container");
-const userScore = document.getElementById("timer")[0];
+const userScore = document.getElementById("timer") [0];
 const startButton = document.getElementById("start");
 
 // Set variables
